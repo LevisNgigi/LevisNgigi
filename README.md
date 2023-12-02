@@ -7,7 +7,7 @@ Full stack software engineer
 I Completed a software engineering bootcamp at ALX focused on full-stack development and I specialized in frontend development. Also did a mobile and web development course at eMobilis Technology Training Institute.
 
 * 🌍  I'm based in Nairobi, Kenya
-* ✉️  You can contact me at [https://twitter.com/Levis_mbote]
+* ✉️  You can contact me via any social media channel
 * 🧠  I'm learning about web3 and writing smart contracts.
 * 🤝  I'm open to collaborating on new technologies and contributing to open-source projects.
 * ⚡  I learn things fast and an open minded individual.
