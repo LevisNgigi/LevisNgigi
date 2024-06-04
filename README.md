@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack software engineer
 ----------------------------
 
-I Completed a software engineering bootcamp at ALX focused on full-stack development and I specialized in frontend development. Also did a mobile and web development course at eMobilis Technology Training Institute.
+I Completed the moringa school software development bootcamp and I also Completed a software engineering bootcamp at ALX focused on full-stack development and I specialized in frontend development. Also did a mobile and web development course at eMobilis Technology Training Institute.
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me via any social media channel
