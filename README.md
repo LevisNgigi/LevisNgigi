@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Levis ngigi
 ===================================================================================================================================
 
-software developer
+software engineer
 ----------------------------
 
 I Completed the moringa school software development bootcamp and I also Completed a software engineering bootcamp at ALX focused on full-stack development and I specialized in frontend development. Also did a mobile and web development course at eMobilis Technology Training Institute.
